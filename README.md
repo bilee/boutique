@@ -12,5 +12,10 @@ Cigarbox Amps
 
 LP gift boxes, bowls
 
-Clothes- slikscreen t-shirts, resale,
+Clothes- slikscreen t-shirts, resale, 
+
+#Places To Sell
+Online- ebay, craigslist, amazon
+
+Offline- craftshows (metro)
 
