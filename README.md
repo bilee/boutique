@@ -6,3 +6,4 @@
  munchery- https://munchery.com/
  doordash- https://www.doordash.com/
  sprig- https://www.sprig.com/
+Seamless- https://www.seamless.com/browse/cities | https://en.wikipedia.org/wiki/Seamless_%28company%29
