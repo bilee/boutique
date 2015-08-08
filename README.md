@@ -1,28 +1,16 @@
 # boutique
-# online boutique food delivery service
-# existing food delivery services:
- grubhub- 
- https://labs.grubhub.com/
- 
- postmates- 
- 
-https://postmates.com/
+# Items To Sell:
+// electronic components- 
+LEDs, perfboards, pots, buttons, switches, cables, adaptors, altoid tins, batteries
 
-munchery- 
-https://munchery.com/
+Lightboxes- names, hashtags
+Watches
 
-doordash- 
-https://www.doordash.com/
+Flowers
 
-sprig- 
-https://www.sprig.com/
+Cigarbox Amps
 
-Seamless- 
-https://www.seamless.com/browse/cities | 
+LP gift boxes, bowls
 
-https://en.wikipedia.org/wiki/Seamless_%28company%29 |
+Clothes- slikscreen t-shirts, resale,
 
-http://www.fastcompany.com/3002640/how-seamless-defied-sandy-kept-hot-meals-coming-and-inspired-twitter-love
-
-Read
-http://www.fastcompany.com/3017417/most-innovative-companies-2012/most-innovative-companies-2012-industries-top-10-food
